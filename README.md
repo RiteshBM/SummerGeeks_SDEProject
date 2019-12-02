@@ -1,8 +1,8 @@
-#Visitor Management System
+# Visitor Management System
 
 A Web based Application to help keep track of Visitors.
-
-##Tech Stack Used
+ 
+## Tech Stack Used
 
 * [Mongoose](https://mongoosejs.com/) - MongoDB object modeling tool.
 * [ReactJS](https://reactjs.org/) - JavaScript library for building user interfaces
@@ -10,7 +10,7 @@ A Web based Application to help keep track of Visitors.
 * [Node,js](https://nodejs.org/en/about/) - JavaScript RE that executes JavaScript code outside of a browser
 
 
-##Demo Gifs
+## Demo Gifs
 
 * Host Interface
 
