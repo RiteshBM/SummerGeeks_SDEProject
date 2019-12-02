@@ -16,7 +16,7 @@ A Web based Application to help keep track of Visitors.
 
 ![Adding a Host](demo_gifs/hostdemo.gif)
 
-*Guest Interface
+* Guest Interface
 
 Guest Enters:-
 
