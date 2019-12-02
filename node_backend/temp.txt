@@ -1,0 +1,7 @@
+Name: Real Guest Final
+Phone: 7890881581
+CheckIn: Mon Dec 02 2019 13:13:01 GMT+0530 (IST)
+CheckOut: Mon Dec 02 2019 13:15:42 GMT+0530 (IST)
+Host Name: Actual Credentials
+Address: Silver-3A,Purti Colors
+12 Ram Road

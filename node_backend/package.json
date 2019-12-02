@@ -1,0 +1,19 @@
+{
+  "name": "node_backend",
+  "version": "1.0.0",
+  "description": "NodeJS backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh_Singh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12",
+    "python-shell": "^1.0.8"
+  }
+}

@@ -1,0 +1,65 @@
+.mainpage
+{
+	height: 100%;
+	text-align:center;
+}
+.mainpagehead
+{
+	margin-top:2%; 
+	height: 100%;
+	text-align:center;
+}
+
+.mainpagehead h3{
+	color: white;
+} 
+.mainpage .hostbutton
+{
+
+	width: 61%;
+	height:30%;
+	margin:auto;
+	margin-bottom:3%;
+	margin-top:5%;
+	color: white;
+	border-radius:35px;
+}
+.mainpage .guestbutton
+{
+
+	width: 61%;
+	height:30%;
+	margin:auto;
+	margin-top:3%;
+	color:white;
+	border-radius:35px;
+}
+
+.btn-1 {
+  background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+}
+.btn {
+  flex: 1 1 auto;
+  margin: 10px;
+  padding: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+ /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+ }
+
+ h1{
+ 	margin-top:10px;
+ 	color: white;
+ 	padding-top: 15px;
+ 	padding-bottom: 15px;
+
+ }
+
+ .headerdiv{
+ 	background: #008C76FF;
+ }
