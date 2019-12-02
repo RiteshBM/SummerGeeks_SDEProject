@@ -11,13 +11,17 @@ A Web based Application to help keep track of Visitors.
 
 ## What it intends to do?
 
-* 1
+* Inform the Host about Visitors through an Email and a SMS Text Message.
 
-** a
+* Inform the Visitor about his visit through an Email and Text Message.
 
-* 2
+## How was it done?
 
-** b
+* The Host and Visitor data was stored online at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
+* Emails were sent using the [smtplib](https://docs.python.org/3/library/smtplib.html) for Python.
+* Messages were sent using the [way2sms](https://www.way2sms.com/) API and Python.
+* A React Based User Interface was paired with an Express based server to form this Project.
+
 
 ## Demo Gifs
 
