@@ -83,7 +83,7 @@ export default class GuestExit extends Component{
 							<div className="row">
 								<div className="col-md-12 text-center">
 									<div className="form-group">
-										<input type="text" required className="form-control" value={this.state.guestname} onChange={this.onChangeGuestName}  placeholder="Your Host's Name"/>
+										<input type="text" required className="form-control" value={this.state.guestname} onChange={this.onChangeGuestName}  placeholder="Your Name"/>
 									</div>
 								</div>
 							</div>
@@ -142,7 +142,7 @@ export default class GuestExit extends Component{
 							<div className="row">
 								<div className="col-md-12 text-center">
 									<div className="form-group">
-										<input type="text" required className="form-control" value={this.state.guestname} onChange={this.onChangeGuestName}  placeholder="Your Host's Name"/>
+										<input type="text" required className="form-control" value={this.state.guestname} onChange={this.onChangeGuestName}  placeholder="Your Name"/>
 									</div>
 								</div>
 							</div>

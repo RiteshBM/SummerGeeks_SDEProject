@@ -20,9 +20,9 @@ def sendPostRequest(reqUrl, apiKey, secretKey, useType, phoneNo, senderId, textM
   }
   return requests.post(reqUrl, req_params,proxies=proxies)
 
-response = sendPostRequest(URL, 'provided-api-key', 'provided-secret', 'prod/stage', 'valid-to-mobile', 'active-sender-id', 'message-text' )
-if 'success' in response.text:
-	print('Message Sent')
+# response = sendPostRequest(URL, 'provided-api-key', 'provided-secret', 'prod/stage', 'valid-to-mobile', 'active-sender-id', 'message-text' )
+# if 'success' in response.text:
+# 	print('Message Sent')
 
 
 
