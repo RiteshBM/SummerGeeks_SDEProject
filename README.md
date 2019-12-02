@@ -9,7 +9,12 @@ A Web based Application to help keep track of Visitors.
 * [ReactJS](https://reactjs.org/) - JavaScript library for building user interfaces
 * [Node,js](https://nodejs.org/en/about/) - JavaScript RE that executes JavaScript code outside of a browser
 
+## What it intends to do?
 
+* 1
+** a
+* 2
+** b
 ## Demo Gifs
 
 * Host Interface
