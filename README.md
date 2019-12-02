@@ -12,9 +12,13 @@ A Web based Application to help keep track of Visitors.
 ## What it intends to do?
 
 * 1
+
 ** a
+
 * 2
+
 ** b
+
 ## Demo Gifs
 
 * Host Interface
