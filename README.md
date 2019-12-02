@@ -38,3 +38,9 @@ Guest Enters:-
 Guest Exits:-
 
 ![Guest Exits](demo_gifs/guestexit.gif)
+
+## Future Improvements
+
+* Add styling to the application to impove the current minimal layout.
+* Reuse prefetched data instead of querying the Database each time.
+* Add appropriate error handlers and log those errors.
