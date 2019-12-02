@@ -11,9 +11,8 @@ A Web based Application to help keep track of Visitors.
 
 ## What it intends to do?
 
-* Inform the Host about Visitors through an Email and a SMS Text Message.
-
-* Inform the Visitor about his visit through an Email and Text Message.
+* Inform the Host about Visitors through an Email and an SMS.
+* Inform the Visitor about his visit through an Email an SMS.
 
 ## How was it done?
 
